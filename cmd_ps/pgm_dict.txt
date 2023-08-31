@@ -1,0 +1,3 @@
+메모장 = notepad
+계산기 = calc
+그림판 = mspaint
